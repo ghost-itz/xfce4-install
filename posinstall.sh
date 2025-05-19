@@ -2,11 +2,11 @@
 
 sudo pacman -S parole evince xfce4-pulseaudio-plugin xfce4-screenshooter \
                plugin-sensores-xfce4 libxnvctrl gnome-disk-utility gparted \
-               baobab \
-               htop \
-               go \
-               wget \
-               flatpak \
+               baobab libgsf \
+               htop gvfs thunar-volman \
+               go xfce4-power-manager \
+               wget thunar  thunar-archive-plugin xarchiver \
+               flatpak ffmpegthumbnailer tumbler \
                audacious \
                gst-libav gst-plugins-ugly gst-plugins-good gst-plugins-bad \
                vlc \
